@@ -1,0 +1,34 @@
+_repo: The-Rejuvenation-of-Aunt-Mary_15775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Warner
+    - French, Anna Richmond Warner
+    - French, Anne Richmond Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2005-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Older people -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Rejuvenation of Aunt Mary
+url: http://www.gutenberg.org/ebooks/15775
